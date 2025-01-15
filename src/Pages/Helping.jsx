@@ -5,7 +5,7 @@ import { MdOutlineSlowMotionVideo } from "react-icons/md";
 function Helping() {
   return (
     <>
-      <div className="grid grid-cols-1  h-screen lg:grid-cols-2 relative">
+      <div className="grid grid-cols-1  h-screen lg:grid-cols-2 relative mt-5">
         {/* Left Section */}
         <div className="flex flex-col py-8 px-8 items-center md:items-start">
           <div className="bg-green-100 rounded-full w-[220px] mx-auto sm:mx-0">
